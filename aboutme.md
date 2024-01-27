@@ -1,16 +1,18 @@
 ---
 layout: page
 title: About me
-subtitle: Why you'd want to go on a date with me
+subtitle: Why you'd want to work with me
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+My name is Cheongbee Park. I have the following licenses:
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+- ADsP
+- Engineer Big data analysis
+- AICE associate
 
 What else do you need?
 
 ### My story
 
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+work hard
+![image](https://postfiles.pstatic.net/MjAyMzAxMTJfMTMw/MDAxNjczNDk5NjcxNjA1.EGFP1wddHWg5QJ8snD2FWIB4o1LpUZMUf82d8W7QALEg.VG5WTMhDeUJQlyNuZd9fPnBewKygfq4-DrpsybqwTVsg.JPEG.wdz9301/IMG_8337.jpg?type=w580).
